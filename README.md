@@ -19,14 +19,9 @@ El efecto se logra mediante:
   ```bash
   pip install opencv-python
 ▶️ Cómo usarlo
-Asegúrate de tener una imagen llamada persona.jpg en la misma carpeta.
 
 Ejecuta el script:
-
 python filtro_comic.py
-Se mostrará el resultado y se guardará una nueva imagen llamada persona_comic.jpg.
 
 🛠 Archivos incluidos
 filtro_comic.py – Código principal del filtro cómic.
-
-persona.jpg – Imagen de prueba (puedes usar cualquier otra).
